@@ -6,8 +6,8 @@ Implement the function noOfElements(x, y, z) which returns the number of element
 
 noOfElements([2,3,0,1,7], 4, 8) to return 1  
 noOfElements([3,3,3,5,18,6,20], 15, 30) to return 2  
-noOfElements([4,6,2,6,7,7], 0, 7) to return 6
-
+noOfElements to return 6
+([4,6,2,6,7,7], 0, 7)
 
 
 # Challenge 2
